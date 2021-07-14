@@ -1,0 +1,7 @@
+.Page404 {
+	background-color: black;
+}
+
+.Page404 > img {
+    height: 100%;
+}

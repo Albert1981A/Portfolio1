@@ -1,0 +1,13 @@
+.Contact {
+    margin: 20px;
+    padding: 20px;
+}
+
+.Contact > .Headline{
+    text-align: center;
+}
+
+.Contact > .TextBox{
+    width: 450px;
+    margin: 5px !important;
+}

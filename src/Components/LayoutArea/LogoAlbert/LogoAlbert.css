@@ -1,0 +1,7 @@
+.LogoAlbert{
+    height: 100%;
+}
+
+.LogoAlbert > img {
+	height: 30px;
+}

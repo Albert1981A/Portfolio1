@@ -1,0 +1,14 @@
+.Header {
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-content: flex-start;
+    align-items: center;
+}
+
+.greeting {
+    margin-right: 60px;
+}
+

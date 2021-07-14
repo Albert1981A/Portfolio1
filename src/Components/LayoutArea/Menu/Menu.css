@@ -1,0 +1,44 @@
+
+
+#menuButton{
+    width: 60px;
+    height: 60px;
+    }
+    
+    #myMenu {
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        height: 100%;
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+      }
+      
+      .Nav_link:link {
+        color: #fff;
+        font-size: 1.1rem;
+        line-height: 2.2rem;
+        text-decoration: none;
+      }
+      .Nav_link:visited {
+        font-weight: bold;
+        /* color: darkcyan; */
+        color: aliceblue;
+      }
+      .Nav_link:hover {
+        font-weight: bold;
+        color: rgb(4, 253, 253);
+      }
+      .Nav_link:active {
+        color: aliceblue;
+      }
+      
+      .activeRoute {
+        display: block;
+        font-weight: bold;
+        background-color:aquamarine;
+        border-bottom: 0.1rem solid teal;
+        cursor: not-allowed;
+        padding: 10;
+      }
