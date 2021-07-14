@@ -11,7 +11,7 @@ class MyArt extends Component {
         return (
             <div className="MyArt">
                 <ThemeProvider theme={theme}>
-                    <Typography variant="h4">3D Modeling</Typography>
+                    <Typography variant="h4">My Art</Typography>
                 </ThemeProvider>
             </div>
         );

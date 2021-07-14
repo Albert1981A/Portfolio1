@@ -69,7 +69,7 @@ function Menu(): JSX.Element {
                     activeClassName="activeRoute"
                     activeStyle={{ color: 'teal' }}
                     // onClick={handleClose}
-                    to="/my-art" exact>My art</NavLink>
+                    to="/my-art" exact>My Art</NavLink>
 
             </div>
 

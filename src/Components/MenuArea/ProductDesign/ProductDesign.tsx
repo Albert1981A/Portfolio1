@@ -11,7 +11,7 @@ class ProductDesign extends Component {
         return (
             <div className="ProductDesign">
                 <ThemeProvider theme={theme}>
-                    <Typography variant="h4">3D Modeling</Typography>
+                    <Typography variant="h4">Product design</Typography>
                 </ThemeProvider>
             </div>
         );
